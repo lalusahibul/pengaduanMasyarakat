@@ -36,7 +36,7 @@ class DatabaseSeeder extends Seeder
             'id_petugas' => '1',
             'nama_petugas' => 'Admin',
             'username' => 'admin',
-            'password' => bcrypt('111'),
+            'password' => bcrypt('admin'),
             'telp' => '081234567',
             'level' => 'admin',
         ]);
