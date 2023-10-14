@@ -1,9 +1,8 @@
 <<<<<<< HEAD
 ## About
 Ini adalah web pengaduan masyarakat menggunakan framework Laravel
-=======
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
->>>>>>> 6a0e68b67ebdd2fdac733c049e25d0ad0a27e371
 
 ## Instalasi
 1. instal php 8.2 dan composer di perangkat
@@ -16,15 +15,11 @@ Ini adalah web pengaduan masyarakat menggunakan framework Laravel
 8. jalankan perintah "php artisan serve" untuk menjalankan server laravel
 9. buka browser dan buka 127.0.0.1:8000 atau localhost:8000 untuk mengakses route
 ## Keterangan
-
-<<<<<<< HEAD
-~User
+#User
 username = admin
 user password = admin
-=======
->>>>>>> 6a0e68b67ebdd2fdac733c049e25d0ad0a27e371
 
-~Route
+#Route
 127.0.0.1:8000/
 127.0.0.1:8000/login
 127.0.0.1:8000/register
