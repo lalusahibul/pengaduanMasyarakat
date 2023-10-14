@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## About
 Ini adalah web pengaduan masyarakat menggunakan framework Laravel
 
@@ -14,15 +13,13 @@ Ini adalah web pengaduan masyarakat menggunakan framework Laravel
 7. buka terminal, jalankan perintah "php artiasan migrate:fresh -- seed" untuk melakukan migrasi database sekaligus data seeder untuk memasukan data admin
 8. jalankan perintah "php artisan serve" untuk menjalankan server laravel
 9. buka browser dan buka 127.0.0.1:8000 atau localhost:8000 untuk mengakses route
-## Keterangan
-#User
-username = admin
-user password = admin
-
-#Route
-127.0.0.1:8000/
-127.0.0.1:8000/login
-127.0.0.1:8000/register
-127.0.0.1:8000/admin_dashboard
-127.0.0.1:8000/petugas_dashboard
-127.0.0.1:8000/masyarakat_dashboard
+## Keterangan User
+1. username = admin
+2. user password = admin
+## Keterangan Route
+1. 127.0.0.1:8000/
+2. 127.0.0.1:8000/login
+3. 127.0.0.1:8000/register
+4. 127.0.0.1:8000/admin_dashboard
+5. 127.0.0.1:8000/petugas_dashboard
+6. 127.0.0.1:8000/masyarakat_dashboard
