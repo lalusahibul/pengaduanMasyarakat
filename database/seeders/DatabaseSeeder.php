@@ -34,8 +34,8 @@ class DatabaseSeeder extends Seeder
         // ]);
         Petugas::create([
             'id_petugas' => '1',
-            'nama_petugas' => 'Lalu Sahibul',
-            'username' => 'ibul',
+            'nama_petugas' => 'Admin',
+            'username' => 'admin',
             'password' => bcrypt('111'),
             'telp' => '081234567',
             'level' => 'admin',

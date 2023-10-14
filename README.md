@@ -23,3 +23,7 @@ Ini adalah web pengaduan masyarakat menggunakan framework Laravel
 4. 127.0.0.1:8000/admin_dashboard
 5. 127.0.0.1:8000/petugas_dashboard
 6. 127.0.0.1:8000/masyarakat_dashboard
+
+## catatan
+Ada sedikit setting untuk database setelah melakukan migration, yakni pada table petugas, tanggapan dan pengaduan, centang auto increment(A_I) secara manual di database pada phpMyadmin.
+Untuk instalasai lebih jelas silahkan kontak saya di instagram <p><a href="https://instagram.com/lalusahibul_">lalusahibul_</a></p>
