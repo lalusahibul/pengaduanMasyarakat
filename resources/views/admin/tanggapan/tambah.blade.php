@@ -8,10 +8,10 @@
                 <h6 class="mb-4">Form Tambah Komentar</h6>
                 <div class="bg-light rounded-top p-4 mt-3">
                     <div class="form-group">
-                        <label for="id_pengaduan"><span class="required"> Pembuat Pengaduan</span></label>
+                        <label for="id_pengaduan"><span class="required"> Isi Pengaduan</span></label>
                         <select id="id_pengaduan"name="id_pengaduan" class="form-control">
                             @foreach ($pengaduan as $row)
-                                <option value="{{ $row->id_pengaduan }}">{{ $row->masyarakat->nama }}</option>
+                                <option value="{{ $row->id_pengaduan }}">{{ $row->isi_laporan }}</option>
                             @endforeach
                         </select>
                     </div>

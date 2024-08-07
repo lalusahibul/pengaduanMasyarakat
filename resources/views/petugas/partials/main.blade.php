@@ -21,7 +21,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
     <!-- Libraries Stylesheet -->
-    <link href="{{ asset('/loginassets/lib/owlcarousel/assets/owl.carousel.min.css"') }} rel="stylesheet">
+    <link href="{{ asset('/loginassets/lib/owlcarousel/assets/owl.carousel.min.css"') }}" rel="stylesheet">
     <link href="{{ asset('/loginassets/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css') }}" rel="stylesheet" />
 
     <!-- Customized Bootstrap Stylesheet -->
@@ -58,7 +58,7 @@
                         </div>
                     </div>
                     <div class="ms-3">
-                        <h6 class="mb-0">Toni</h6>
+                        <h6 class="mb-0">Petugas</h6>
                         <span>Petugas</span>
                     </div>
                 </div>
